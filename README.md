@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Md Masud Hossain</h1>
 
-- 🔭 I’m currently working on React Js & Next Js
+- 🔭 I’m currently working on React.Js & Next.Js
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about React Js & Next Js 
+- 💬 Ask me anything about React.Js & Next.Js 
 - 📫 How to reach me: masud215502@gmail.com
   
 ### Connect with me:
